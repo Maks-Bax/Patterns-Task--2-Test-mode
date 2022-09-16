@@ -7,7 +7,7 @@ import lombok.Value;
 @Data
 @Value
 @AllArgsConstructor
-public class RegistrationInfo {
+public class List {
     private String login;
     private String password;
     private String status;
